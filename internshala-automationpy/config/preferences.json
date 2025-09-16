@@ -1,0 +1,13 @@
+{
+    "category": [
+        "web-development",
+        "front-end-development",
+        "full-stack-development"
+    ],
+    "location": [
+        "delhi",
+        "Allahabad"
+    ],
+    "duration": "3",
+    "includeWorkFromHome": "false"
+}
